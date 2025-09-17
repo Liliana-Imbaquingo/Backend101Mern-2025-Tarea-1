@@ -1,0 +1,27 @@
+{
+  "name": "backend101mern-2025-tarea-1",
+  "version": "1.0.0",
+  "description": "Implementar un servidor Node.js que exponga un CRUD de eventos del proyeto Walletfy",
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "homepage": "https://github.com/Liliana-Imbaquingo/Backend101Mern-2025-Tarea-1#readme",
+  "bugs": {
+    "url": "https://github.com/Liliana-Imbaquingo/Backend101Mern-2025-Tarea-1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liliana-Imbaquingo/Backend101Mern-2025-Tarea-1.git"
+  },
+  "license": "ISC",
+  "author": "Liliana Imbaquingo <lilpaimb@gmail.com>",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "5.1.0"
+  }
+}
